@@ -9,5 +9,5 @@ while True:
     elif user == "bye" or user == "exit": 
         print("Bot: Goodbye!") 
         break 
-     else: 
+    else: 
         print("Bot: Sorry, I don't understand.") 
